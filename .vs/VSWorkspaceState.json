@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OOPStep01",
+    "\\OOPStep01\\OOPStep01",
+    "\\OOPStep01\\x64",
+    "\\OOPStep01\\x64\\Debug"
   ],
+  "SelectedNode": "\\OOPStep01\\OOPStep01.sln",
   "PreviewInSolutionExplorer": false
 }
